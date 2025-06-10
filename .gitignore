@@ -1,2 +1,4 @@
 // filepath: .gitignore
 *.exe
+
+.vscode/
